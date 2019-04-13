@@ -1,19 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "81bacec3e65d9abfd9bd",
+    "revision": "2b5c947d2a691105165d",
     "url": "/soundboks/static/css/main.569c0fc5.chunk.css"
   },
   {
-    "revision": "81bacec3e65d9abfd9bd",
-    "url": "/soundboks/static/js/main.3b506748.chunk.js"
+    "revision": "2b5c947d2a691105165d",
+    "url": "/soundboks/static/js/main.68af8892.chunk.js"
   },
   {
     "revision": "7014389abdd46155051a",
     "url": "/soundboks/static/js/runtime~main.32e17703.js"
   },
   {
-    "revision": "3abf25b3d4bf0ea6aace",
-    "url": "/soundboks/static/js/2.6cb14a38.chunk.js"
+    "revision": "900264a202482be02f75",
+    "url": "/soundboks/static/js/2.0997a5bf.chunk.js"
+  },
+  {
+    "revision": "be7bb43fad63aea7a9b8b913545d7935",
+    "url": "/soundboks/static/media/Desktop_loop.be7bb43f.mp4"
   },
   {
     "revision": "7b4631dc761cb9f8b8b460d8fa1fb9c7",
@@ -50,10 +54,6 @@ self.__precacheManifest = [
   {
     "revision": "acbe132014d201ffe2a5996f96e909cd",
     "url": "/soundboks/static/media/Desktop_loop_min.acbe1320.mp4"
-  },
-  {
-    "revision": "be7bb43fad63aea7a9b8b913545d7935",
-    "url": "/soundboks/static/media/Desktop_loop.be7bb43f.mp4"
   },
   {
     "revision": "21bd6e2749a4a7ce0d22a859e682e25b",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/soundboks/static/media/logo.7d3bdc7f.svg"
   },
   {
-    "revision": "a89c38216b4a3b63cc86329e7e555f05",
+    "revision": "fe3748f1806e04859bdf29d8b1d3dd82",
     "url": "/soundboks/index.html"
   }
 ];
