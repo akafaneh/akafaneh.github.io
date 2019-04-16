@@ -1,0 +1,22 @@
+{
+  "main.css": "/abtion/static/css/main.f781df70.chunk.css",
+  "main.js": "/abtion/static/js/main.446bc661.chunk.js",
+  "main.js.map": "/abtion/static/js/main.446bc661.chunk.js.map",
+  "runtime~main.js": "/abtion/static/js/runtime~main.b4041785.js",
+  "runtime~main.js.map": "/abtion/static/js/runtime~main.b4041785.js.map",
+  "static/js/2.d0512709.chunk.js": "/abtion/static/js/2.d0512709.chunk.js",
+  "static/js/2.d0512709.chunk.js.map": "/abtion/static/js/2.d0512709.chunk.js.map",
+  "index.html": "/abtion/index.html",
+  "precache-manifest.7ca67a2060032c9ced984c8a08683554.js": "/abtion/precache-manifest.7ca67a2060032c9ced984c8a08683554.js",
+  "service-worker.js": "/abtion/service-worker.js",
+  "static/css/main.f781df70.chunk.css.map": "/abtion/static/css/main.f781df70.chunk.css.map",
+  "static/media/BrokenClouds.ee82dd5c.svg": "/abtion/static/media/BrokenClouds.ee82dd5c.svg",
+  "static/media/Clear.2ca22e5d.svg": "/abtion/static/media/Clear.2ca22e5d.svg",
+  "static/media/FewClouds.ac3bd950.svg": "/abtion/static/media/FewClouds.ac3bd950.svg",
+  "static/media/Mist.05cd9cbc.svg": "/abtion/static/media/Mist.05cd9cbc.svg",
+  "static/media/Rain.bef503fe.svg": "/abtion/static/media/Rain.bef503fe.svg",
+  "static/media/ScatteredClouds.c26b28b8.svg": "/abtion/static/media/ScatteredClouds.c26b28b8.svg",
+  "static/media/ShowerRain.1d06ea6f.svg": "/abtion/static/media/ShowerRain.1d06ea6f.svg",
+  "static/media/Snow.c60ad250.svg": "/abtion/static/media/Snow.c60ad250.svg",
+  "static/media/Thunderstorm.8a265185.svg": "/abtion/static/media/Thunderstorm.8a265185.svg"
+}

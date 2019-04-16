@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g fill="none" fill-rule="evenodd" stroke-linecap="round">
+    <g stroke="#202136" stroke-width="4" transform="translate(31 2)">
+      <path d="M9.5-7.10542736e-15L9.5 76M.5 5.5L9.5 16"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,5.5 L9.5,16"/>
+      <path d="M9.5,60.5 L18.5,71" transform="rotate(-180 14 65.5)"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,60.5 L9.5,71" transform="matrix(1 0 0 -1 0 131)"/>
+    </g>
+    <g stroke="#202136" stroke-width="4" transform="rotate(59.986 23.267 65.855)">
+      <path d="M9.5-7.10542736e-15L9.5 76M.5 5.5L9.5 16"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,5.5 L9.5,16"/>
+      <path d="M9.5,60.5 L18.5,71" transform="rotate(-180 14 65.5)"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,60.5 L9.5,71" transform="matrix(1 0 0 -1 0 131)"/>
+    </g>
+    <g stroke="#202136" stroke-width="4" transform="rotate(119.689 24.419 48.005)">
+      <path d="M9.5-7.10542736e-15L9.5 76M.5 5.5L9.5 16"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,5.5 L9.5,16"/>
+      <path d="M9.5,60.5 L18.5,71" transform="rotate(-180 14 65.5)"/>
+      <path d="M9.5,5.5 L18.5,16" transform="matrix(-1 0 0 1 28 0)"/>
+      <path d="M0.5,60.5 L9.5,71" transform="matrix(1 0 0 -1 0 131)"/>
+    </g>
+  </g>
+</svg>
