@@ -154,7 +154,7 @@ function unfollowPlaylist(uri, callback) {
     var split_uri = uri.split(':')
     if (split_uri.length == 3) {
         var id = uri.split(':')[2];
-        var url = 'https://api.spotify.com/v1/' +
+        var url = 'https://api.spotify.com/v1' +
             '/playlists/' + id + '/followers';
         callSpotify('DELETE', url, {}, callback);
     }
