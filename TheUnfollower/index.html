@@ -87,6 +87,24 @@
 <script>
 "use strict";
 
+// ============================================================================
+// CONFIGURATION - UPDATE YOUR SPOTIFY APP CREDENTIALS HERE
+// ============================================================================
+// To fix the "INVALID_CLIENT: Failed to get client" error, you need to:
+// 1. Go to https://developer.spotify.com/dashboard
+// 2. Log in with your Spotify account
+// 3. Click "Create app" 
+// 4. Fill in the app details:
+//    - App name: TheUnfollower (or any name you prefer)
+//    - App description: A tool to unfollow Spotify playlists
+//    - Redirect URI: https://akafaneh.github.io/TheUnfollower/index.html
+//      (or http://localhost:8000/index.html for local testing)
+// 5. Accept the terms and create the app
+// 6. Copy your "Client ID" from the app settings
+// 7. Paste your Client ID below, replacing the existing value
+// ============================================================================
+var SPOTIFY_CLIENT_ID = '05d72717aec14d9ba7c353d8bffcd5e8'; // REPLACE THIS WITH YOUR CLIENT ID
+
 var accessToken = null;
 
 var unfollowCount = 0;
@@ -101,7 +119,7 @@ function info(msg) {
 }
 
 function authorizeUser() {
-    var client_id = '05d72717aec14d9ba7c353d8bffcd5e8';
+    var client_id = SPOTIFY_CLIENT_ID;
     var redirect_uri_local = 'http://localhost:8000/index.html';
     var redirect_uri_deployed = 'https://akafaneh.github.io/TheUnfollower/index.html';
     var scopes = 'playlist-read-private playlist-modify-private playlist-modify-public';
